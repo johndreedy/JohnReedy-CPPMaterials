@@ -4,5 +4,6 @@
 		<Project filename="Lesson 1 - Hello World/Lesson 1 - Hello World.cbp" />
 		<Project filename="Lesson 2 - Drawing a Shape/Lesson 2 - Drawing a Shape.cbp" />
 		<Project filename="Lesson 3 - Using Variables/Lesson 3 - Using Variables.cbp" />
+		<Project filename="Lesson 4 - Different Data Types/Lesson 4 - Different Data Types.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
