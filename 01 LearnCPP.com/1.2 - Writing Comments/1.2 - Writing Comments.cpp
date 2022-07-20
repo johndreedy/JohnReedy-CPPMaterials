@@ -16,7 +16,8 @@ This is especially important when others are reading your code, or if you are re
 
 int main()
 {
-    std::cout << "Hello World!";
+    std::cout << "Hello World!\n";
+    std::cout << "1\n";
     // std::cout << "1";
     return 0;
 }
