@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2 - Writing Comments", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3 - Objects and Variables", "1.3 - Objects and Variables\1.3 - Objects and Variables.vcxproj", "{ABEDE9D5-571C-4606-B5A5-FFEBABE859E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.4 - Variable Assignment and Initialisation", "1.4 - Variable Assignment and Initialisation\1.4 - Variable Assignment and Initialisation.vcxproj", "{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{ABEDE9D5-571C-4606-B5A5-FFEBABE859E2}.Release|x64.Build.0 = Release|x64
 		{ABEDE9D5-571C-4606-B5A5-FFEBABE859E2}.Release|x86.ActiveCfg = Release|Win32
 		{ABEDE9D5-571C-4606-B5A5-FFEBABE859E2}.Release|x86.Build.0 = Release|Win32
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Debug|x64.ActiveCfg = Debug|x64
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Debug|x64.Build.0 = Debug|x64
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Debug|x86.Build.0 = Debug|Win32
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Release|x64.ActiveCfg = Release|x64
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Release|x64.Build.0 = Release|x64
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Release|x86.ActiveCfg = Release|Win32
+		{CFFF0E05-DE51-4676-BD14-85C0D1A0CA14}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
