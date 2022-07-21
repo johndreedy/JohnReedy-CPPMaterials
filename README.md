@@ -2,7 +2,7 @@
 
 ________
 
-A repository of projects designed following C++ learning material, to demonstrate my aptitude in using the language.
+A repository of projects designed following C++ learning materials, to demonstrate my aptitude in using the language.
 
 "01 LearnCPP.Com" pertains to my current progress studying the lessons on the aforementioned website. I am using Visual Studio 2022 and each
 lesson I have learnt can be found in the respective lesson folders.
